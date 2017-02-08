@@ -14,3 +14,6 @@ SEO friendly
 ##### A custom_offset to load the true image before it enter in viewport, to avoid user to wait the download 
 lazyImg.setConfig(lazyImg_image, lazyImg_custom_offset);
 
+## Exemple
+
+This script is used on this website [Tuto&Co](https://tutoandco.colas-delmas.fr)
